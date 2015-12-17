@@ -6,8 +6,7 @@
   "main": "main.js",
   "author": "John",
   "engines": {
-    "firefox": ">=38.0a1",
-    "fennec": ">=38.0a1"
+    "firefox": ">=38.0a1"
   },
   "license": "MIT",
   "keywords": [
